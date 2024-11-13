@@ -1,0 +1,43 @@
+
+
+
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+h1{
+    font-family:cursive;
+    font-weight: 1000;
+    font-size:300%;
+}
+.scoreDisplay{
+display: flex;
+padding-left:30%;
+gap: 300px;
+}
+.btnDisplay{
+    display: flex;
+    padding-top: 2%;
+padding-left:39%;
+padding-bottom: 2%;
+gap: 100px;
+}
+
+// .success{
+// background-color: rgb(68, 190, 57);;
+// color: black;
+// margin: 0%;
+// height: 100%;
+// width: 100%;
+
+// }
+// .normal{
+//     background-color: black;
+//     color: white;
+//     margin: 0%;
+//     height: 100%;
+//     width: 100%;
+    
+// }
